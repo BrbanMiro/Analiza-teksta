@@ -341,7 +341,7 @@ Sljedeći resursi ulaze u osnovnu literaturu za kolegij:
 <br>Ovo je napredna literatura za dubinsko razumijevanje analize teksta. *Knjiga se odnosi na programski jezik R.*
 
 
-<a href="http://www.bigdatasocialscience.com/">Big data and social science</a>
+<a href="http://www.bigdatasocialscience.com">Big data and social science</a>
 <br><i>od skupine autora.</i> 
 <br>Ovo je literatura za šire razumijevanje Big Data pristupa i podataka *(također tekstualnih)* koji su osnova za modernu analizu teksta.
 
