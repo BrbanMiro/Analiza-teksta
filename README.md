@@ -257,13 +257,14 @@ Diplomski kolegij 'Strojna obrada teksta' u xy semestru akademske godine 2021/22
 
 
 <div style="width: 25%; margin-left: auto; margin-right: auto;">
-<a href="">Predavanje 12: Opisivanje i usporedba teksta</a>
+<a href="">Predavanje 13: Tematska analiza teksta</a>
 <ul>
-<li> Leksička raznolikost</li>
-<li> Čitljivost</li>
-<li> Kriteriji sličnosti: cosine, euklid, jacquard, edit</li>
-<li> Klaster metode: k-means, hijerarhijski klaster </li>
-<li> PP claster analize na tekstovima o predsjedničkim izborima</li>
+<li> Pregled tematskih modela</li>
+<li> Latent Dirchlet Allocation (LDA)</li>
+<li> Validacija tematskih modela </li>
+<li> Primjeri tematske analize na aktualnoj temi iz online medija</li>
+<li> Određivanje broja tema i pokazatelji robusnosti</li>
+<li> Pregled naprednih metoda tematske analize</li>
 <ul>
 
 </div>
@@ -274,7 +275,24 @@ Diplomski kolegij 'Strojna obrada teksta' u xy semestru akademske godine 2021/22
 <br>
 <br>
 
+<div style="width: 25%; margin-left: auto; margin-right: auto;">
+<a href="">Predavanje 14: Napredne teme iz analize teksta</a>
+<ul>
+<li> </li>
+<li> </li>
+<li> </li>
+<li> </li>
+<li> </li>
+<li> </li>
+<ul>
 
+</div>
+
+<b>Format predavanja:</b> <a href="/">.html</a> | <a href="/Predavanja/03_.pdf">.pdf</a> | <a href="">.Rmd</a> 
+<br><b>Čitanje: </b> <a href=""> </a>
+<br>
+<br>
+<br>
 
 
 
