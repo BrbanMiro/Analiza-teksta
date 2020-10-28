@@ -15,7 +15,7 @@ Diplomski kolegij 'Strojna obrada teksta' u xy semestru akademske godine 2021/22
 <b>Predavanja</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;xy,&nbsp;xy
 <br><b>Konzultacije</b>&nbsp;&nbsp;&nbsp;xy,&nbsp;xy
 
-# Literatura
+# Literatura i korisni resursi
 
 Koristiti ćemo mnoštvo resursa koji će biti dostupni na linkovima kod svakog predavanja.
 Sljedeći resursi ulaze u osnovnu literaturu za kolegij:
@@ -49,13 +49,14 @@ Sljedeći resursi ulaze u osnovnu literaturu za kolegij:
 <br>Članak opisuje potencijale i ograničenja analize teksta sa naglaskom na političke tekstove.
 
 
+<a href="https://vita.had.co.nz/papers/tidy-data.pdf">Tidy data</a>
+<br>Članak objašnjava "tidy data" pristup podatkovnoj znanosti. Ovaj pristup se ekstenzivno primjenjuje u kolegiju i odnosi se na ekosistem paketa u programskom jeziku R pod nazivom <a href="https://www.tidyverse.org/">*tidyverse*</a>.
+
+
 ### Korisni repozitoriji
 
 
 <a href="https://github.com/stepthom/text_mining_resources">Sistematizirani popis **svih** relevantnih resursa o analizi teksta.</a>
-
-<a href="https://github.com/hjmschoonvelde/CEU_ATA_2019">Kolegij iz analize teksta u političkim znanostima.</a> 
-<br>Sadrži iscrpan popis relevantnih akademskih radova iz analize teksta.
 
 <a href="https://github.com/hjmschoonvelde/CEU_ATA_2019">Kolegij iz analize teksta u političkim znanostima.</a> 
 <br>Sadrži iscrpan popis relevantnih akademskih radova iz analize teksta.
@@ -70,7 +71,7 @@ Sljedeći resursi ulaze u osnovnu literaturu za kolegij:
 ### Online predavanja
 
 <a href="https://learn.datacamp.com/skill-tracks/text-mining-with-r">DataCamp</a>
-<br>Modul tečajeva o analizi teksta u R. Ovaj modul je usko povezan sa knj
+<br>Modul tečajeva o analizi teksta u R. Ovaj modul je usko povezan sa knjigom **Text Mining with R** što je glavna literatura za ovaj kolegij. Korisno!
 
 <a href="https://www.coursera.org/courses?query=natural%20language%20processing&/">Coursera</a>
 <br>Brojni tečajeva iz analize teksta. U slučaju potrebe za dubljim razumjevanjem specifičnih pristupa analize teksta.  
@@ -79,27 +80,29 @@ Sljedeći resursi ulaze u osnovnu literaturu za kolegij:
 <br>Napredni *(frontier)* kolegij iz analize teksta. 
 
 <a href="https://www.udemy.com/course/master-natural-language-processing-nlp-text-mining-without-coding/">Udemy 1</a>
-<br>Kolegij iz tečaj teksta bez programskog jezika. Koristan uvodni tečaj.
+<br>Kolegij iz tečaj teksta bez programskog jezika. Korisno!
 
 <a href="https://www.udemy.com/course/nlp-natural-language-processing-with-python/">Udemy 2</a>
 <br>Uvodni tečaj iz (NLP) analize teksta u programskom jeziku Python.
 
-
-
-
-
-
+<a href="https://www.youtube.com/playlist?list=PLQiyVNMpDLKnZYBTUOlSI9mi9wAErFtFm">YouTube</a>
+<br>Izvstan  kolegij iz (NLP) analize teksta dostupan kroz kratka predavanja. Praktično i efikasno!
 
 
 # Materijali sa predavanja
 
-<i>Napomena:</i> Predavanja će biti dostupna kao .pdf,.html i .Rmd.
+<i>Napomena 1:</i> Predavanja će biti u više formata (.pdf,.html i .Rmd.) kako bi se omogućilo online i lokalno korištenje resursa.
+
+<i>Napomena 2:</i> Kolegij je strukturiran u tri cjeline:
+1. Priprema tekstualnih podataka za analizu.
+2. Pristupi i modeli za analizu teksta
+3. Napredne teme iz analize teksta i praktični primjeri.
 
 
 <a href="/Predavanja/01_UVOD.pdf">Predavanje 01: Pregled kolegija i studentskih obveza</a>
 
 <div style="width: 25%; margin-left: auto; margin-right: auto;">
-<a href="https://raw.githack.com/BrbanMiro/Obrada-podataka/main/Predavanja/03_VRSTEdtaXAR.html">Predavanje 02: Vrste podataka</a>
+<a href="">Predavanje 02: Vrste podataka</a>
 <ul>
 <li> Strukturirani i ne-strukturirani podatci</li>
 <li> <a href="https://www.youtube.com/watch?v=_I2GrxUGNQc&t=2">Kvantitativni i kvalitativni</a></li>
@@ -164,28 +167,18 @@ Sljedeći resursi ulaze u osnovnu literaturu za kolegij:
 
 # Polaganje ispita i kolokvija
 
-Studentima se preporuča i omogućuje da polože kolegij kroz prezentaciju i dva kolokvija. Sustav bodovanja za studente koji polažu kolegij preko kolokvija: moguće je skupiti 100 bodova, pri tome je na prezentaciji moguće ostvariti do 10 bodova, a na svakom kolokviju do 40 bodova. Pri tome je sustav bodovanja jednak kao kod ispita(vidi niže!).
 
 U zimskom , ljetnom i jesenskom ispitnom roku studenti imaju završni pismeni ispit iz tema obrađenih na predavanjima i prema priloženoj literaturi. Ispit je položen ako student ostvari 60% od ukupno mogućih bodova: 60-64% = (2); 65-74% = (3); 75-84% = (4); 85% = (5).
 
+Studentima se preporuča i omogućuje da polože kolegij kroz prezentaciju i dva kolokvija. Sustav bodovanja za studente koji polažu kolegij preko kolokvija: moguće je skupiti 100 bodova, pri tome je na prezentaciji moguće ostvariti do 10 bodova, a na svakom kolokviju do 40 bodova. Pri tome je sustav bodovanja jednak kao kod ispita.
+
 # Studentska prezentacija/seminarski rad
 
-Svi studenti tijekom semestra moraju održati jednu prezentaciju prema zadanoj literaturi u .ppt formi. Izlagači moraju pripremiti na kraju prezentacije i nekoliko (2-3) ključnih pitanja za raspravu koju imamo na kraju obrađene teme. Prezentaciju je potrebno poslati profesoru na e-mail najkasnije u petak, tjedan dana prije seminara.
+Svi studenti tijekom semestra moraju održati jednu prezentaciju prema zadanoj literaturi. Izlagači trebaju pripremiti i nekoliko (2-3) ključnih pitanja za raspravu. 
 
-Seminari osim prezentacije uključuju: povezivanje teorijskih koncepata s praktičnom primjenom, zajednička empirijska analiza, rasprava o društvenim aspektima statističkih rezultata, aktivno sudjelovanje u raspravi na zadanu temu.
+Seminari osim prezentacije uključuju: povezivanje teorijskih koncepata s praktičnom primjenom, zajednička empirijska analiza, rasprava o društvenim aspektima rezultata, aktivno sudjelovanje u raspravi na zadanu temu.
 
-# Korisni resursi
-
-<div style="width: 25%; margin-left: auto; margin-right: auto;">
-<H3>Statistika</h3>
-
-<ul>
-<li><a href="https://www.pdfdrive.com/penguin-books-how-to-lie-with-statistics-darrell-huff-e119748826.html">How to lie with statistics</a></li>
-<li><a href="https://www.bookdepository.com/Art-Statistics-David-Spiegelhalter/9780241258767?pdg=dsa-19959388920:cmp-8862937091:adg-86528077382:crv-411135277650:pos-:dev-c&gclid=CjwKCAjwiOv7BRBREiwAXHbv3LXBoXSa-a8cNTrV3aewUF0MkjMZRiknrYma4gIeWYxwf4eiV9obQBoC2EAQAvD_BwEl">The Art of Statistics: Learning from Data</a></li>
-<li><a href="https://www.amazon.com/How-Make-World-Add-Up/dp/1408712245">How-Make-World-Add-Up</a></li>
-<ul>
-</div>
-
+# Korisni resursi vezani uz programski jezik R
 
 <div style="width: 25%; margin-left: auto; margin-right: auto;">
 <H3>R</h3>
@@ -205,7 +198,7 @@ Seminari osim prezentacije uključuju: povezivanje teorijskih koncepata s prakti
 <ul>
 <li><a href="https://towardsdatascience.com/best-data-science-blogs-to-follow-in-2020-d03044169eb4">Data science blogovi</a></li>
 <li><a href="https://towardsdatascience.com/data-science-books-you-should-read-in-2020-358f70e1d9b2">Data science knjige</a></li>
-<li><a href="https://rpubs.com/shichich">Prošlogodišnja predavanja</a></li>
+<li><a href="https://github.com/BrbanMiro/Obrada-podataka">Predavanja iz kolegija Obrada podataka</a></li>
 <ul>
 
 
