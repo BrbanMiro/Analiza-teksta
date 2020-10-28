@@ -37,6 +37,18 @@ Sljedeći resursi ulaze u osnovnu literaturu za kolegij:
 <br>Ovo je napredna literatura za dubinsko razumijevanje analize teksta. *Knjiga se odnosi na programski jezik R.*
 
 
+<a href="/Literatura/(Statistics in the social and behavioral sciences series) Ian Foster, Rayid Ghani, Ron S. Jarmin, Frauke Kreuter, Julia Lane - Big data and social science_ a practical guide to methods and tools-Chapm.pdf">Big data and social science</a>
+<br><i>od skupine autora.</i> 
+<br>Ovo je literatura za šire razumijevanje Big Data pristupa i podataka *(također tekstualnih)* koji su osnova za modernu analizu teksta.
+
+
+<a href="/Literatura/css.pdf">Computational Social Science</a>
+<br><i>od Claudio Cioffi-Revilla.</i> 
+<br>Ovo je napredna literatura za šire metodološkog konteksta kolegija *(analize teksta)*.
+
+
+
+
 ### Članci
 
 <a href="/Literatura/Text Analysis in R.pdf">Text Analysis in R (2017)</a>
@@ -51,6 +63,9 @@ Sljedeći resursi ulaze u osnovnu literaturu za kolegij:
 
 <a href="https://vita.had.co.nz/papers/tidy-data.pdf">Tidy data</a>
 <br>Članak objašnjava "tidy data" pristup podatkovnoj znanosti. Ovaj pristup se ekstenzivno primjenjuje u kolegiju i odnosi se na ekosistem paketa u programskom jeziku R pod nazivom <a href="https://www.tidyverse.org/">*tidyverse*</a>.
+
+<a href="https://github.com/BrbanMiro/Obrada-podataka/blob/main/Literatura/Shu-Heng%20Chen%20-%20Big%20Data%20in%20Computational%20Social%20Science%20and%20Humanities-Springer%20(2018).pdf">*Big Data* u drušvenim znanostima</a>
+<br>Članak daje pregled *Big Data* pristupa u društvenim znanostima uz korisne reference i primjere. Korisna za razumijevanje šireg konteksta kolegija. Da li se nalazimo pred Khun-ovskom znanstvenom revolucijom u društvenim znanostima!? 
 
 
 ### Korisni repozitoriji
@@ -74,7 +89,7 @@ Sljedeći resursi ulaze u osnovnu literaturu za kolegij:
 <br>Modul tečajeva o analizi teksta u R. Ovaj modul je usko povezan sa knjigom **Text Mining with R** što je glavna literatura za ovaj kolegij. Korisno!
 
 <a href="https://www.coursera.org/courses?query=natural%20language%20processing&/">Coursera</a>
-<br>Brojni tečajeva iz analize teksta. U slučaju potrebe za dubljim razumjevanjem specifičnih pristupa analize teksta.  
+<br>Mnoštvo tečajeva iz analize teksta. U slučaju potrebe za dubljim razumjevanjem specifičnih pristupa analize teksta.  
 
 <a href="http://cs224d.stanford.edu/">Stanford University</a>
 <br>Napredni *(frontier)* kolegij iz analize teksta. 
@@ -86,20 +101,25 @@ Sljedeći resursi ulaze u osnovnu literaturu za kolegij:
 <br>Uvodni tečaj iz (NLP) analize teksta u programskom jeziku Python.
 
 <a href="https://www.youtube.com/playlist?list=PLQiyVNMpDLKnZYBTUOlSI9mi9wAErFtFm">YouTube</a>
-<br>Izvstan  kolegij iz (NLP) analize teksta dostupan kroz kratka predavanja. Praktično i efikasno!
+<br>Izvstan kolegij iz (NLP) analize teksta organiziran kroz kratka predavanja. Praktično i efikasno!
 
 
 # Materijali sa predavanja
 
 <i>Napomena 1:</i> Predavanja će biti u više formata (.pdf,.html i .Rmd.) kako bi se omogućilo online i lokalno korištenje resursa.
-
 <i>Napomena 2:</i> Kolegij je strukturiran u tri cjeline:
 1. Priprema tekstualnih podataka za analizu.
 2. Pristupi i modeli za analizu teksta
 3. Napredne teme iz analize teksta i praktični primjeri.
 
 
+### Predavanja
+
+
 <a href="/Predavanja/01_UVOD.pdf">Predavanje 01: Pregled kolegija i studentskih obveza</a>
+
+- "Big Data" u društvenim i humanističkim znanostima
+- CSS
 
 <div style="width: 25%; margin-left: auto; margin-right: auto;">
 <a href="">Predavanje 02: Vrste podataka</a>
