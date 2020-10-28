@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="/Foto/frontBild2.jpg" width="750" title="hover text">
+  <img src="/Bilder/frontBild2.jpg" width="750" title="hover text">
 </p>
 
  
