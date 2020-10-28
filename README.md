@@ -6,9 +6,8 @@
 
  
 
-
 # Strojna obrada teksta
-Diplomski kolegij 'Strojna obrada teksta' u xy semestru akademske godine 2021/22 na Fakultetu hrvatskih studija u Zagrebu. 
+Diplomski kolegij 'Strojna obrada teksta' u xy semestru akademske godine 2021/22 na Fakultetu hrvatskih studija u Zagrebu. Kolegij je prvenstveno namijenjen studentima komunikologije na diplomskoj razini, a također kompatibilan sa pristupima obrade teksta u drugim društvenim (sociologija, politologija, povijest, pravo) i humanističkim (antropologija, literatura) znanostima. 
 
 
 # Raspored
@@ -16,24 +15,47 @@ Diplomski kolegij 'Strojna obrada teksta' u xy semestru akademske godine 2021/22
 <b>Predavanja</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;xy,&nbsp;xy
 <br><b>Konzultacije</b>&nbsp;&nbsp;&nbsp;xy,&nbsp;xy
 
-# Knjige
+# Literatura
 
-Koristiti ćemo mnoštvo digitalnih resursa kojie će biti dostupne na linkovima kod svakog predavanja.
-Sljedeći resursi ulaze u nezaobilaznu literaturu za kolegij:
+Koristiti ćemo mnoštvo resursa koji će biti dostupni na linkovima kod svakog predavanja.
+Sljedeći resursi ulaze u osnovnu literaturu za kolegij:
 
 
-<a href="https://www.tidytextmining.com/">RText Mining with R</a>
+### Knjige
+
+
+<a href="/Literatura/Text mining with R(2017).pdf">Text Mining with R</a>
 <br><i>od Julia Silge i David Robinson</i> 
-<br>Ovo je osnovna literatura za kolegij. Dostupna je i <a href="https://www.tidytextmining.com/">bookdown</a> verzija.
+<br>Ovo je **osnovna** literatura za kolegij. Dostupna je i <a href="https://www.tidytextmining.com/">bookdown</a> verzija.
 
-<a href="http://www.ievbras.ru/ecostat/Kiril/R/Biblio_N/R_Eng/Wickham2016.pdf">ggplot2: Elegant Graphics for Data Analysis with R</a>
-<br><i>od Hadley Wickham-a.</i> 
-<br>Ovo je referenca za vizualizaciju podataka u R. Dostupna je i <a href="https://ggplot2-book.org/">bookdown</a> verzija.
+<a href="/Literatura/Text Mining in Practice with R (2017).pdf">Text Mining in Practice with R</a>
+<br><i>Ted Kwartler.</i> 
+<br>Literatura za studente koji žele razumjeti analizu teksta na dubljoj razini. *Knjiga se odnosi na programski jezik R*.
+
+<a href="/Literatura/Mastering Text Mining with R.pdf">Mastering Text Mining with R</a>
+<br><i>od Ashis Kumar i Avinash Paul.</i> 
+<br>Ovo je napredna literatura za dubinsko razumijevanje analize teksta. *Knjiga se odnosi na programski jezik R.*
 
 
-<a href="https://bookdown.org/yihui/rmarkdown/rmarkdown.pdf">R Markdown: The Definitive Guide</a>
-<br><i>od Yihui Xie.</i> 
-<br>Ovo je referenca za komunikaciju i objavu analize u različitim formatima. Dostupna je i <a href="https://bookdown.org/yihui/rmarkdown/">bookdown</a> verzija.
+### Članci
+
+<a href="/Literatura/Text Analysis in R.pdf">Text Analysis in R (2017)</a>
+<br>Članak iznosi osnove analize teksta u komunikologiji i opisuje podršku za provedbu analize u programskom jeziku R.
+
+<a href="/Literatura/Taking Stock of the Toolkit.pdf">Taking Stock of the Toolkit (2016)</a>
+<br>Članak opisuje kvantitativne pristupe i metode za analizu teksta u digitalnom novinarstvu.
+
+<a href="/Literatura/Text as Data.pdf">Text as Data (2013)</a>
+<br>Članak opisuje potencijale i ograničenja analize teksta sa naglaskom na političke tekstove.
+
+### Korisni repozitoriji
+
+
+
+
+
+
+
 
 
 # Materijali sa predavanja
