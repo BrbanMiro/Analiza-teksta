@@ -150,23 +150,38 @@ Sljedeći resursi ulaze u osnovnu literaturu za kolegij:
 
 
 <div style="width: 25%; margin-left: auto; margin-right: auto;">
-<a href="https://raw.githack.com/BrbanMiro/Obrada-podataka/main/Predavanja/03_IZVORIdtaXAR.html">Predavanje 03: Izvori podataka</a>
+<a href="">Predavanje 03: Uvoz tekstulnih podataka u R</a>
 <ul>
-<li> Kategorije izvora podatka</li>
-<li> Klasični izvori podataka</li>
-<li> Moderni izvori podataka (BigData)</li>
-<li> Web</li>
-<li> Društvene mreže</li>
-<li> Web stranice i aplikacije</li>
-<li> Društvene mreže</li>
-<li> Senzori</li>
-<li> Upravljanje modernim podatcima</li>
+<li> Rad sa podatcima u tabličnom (.csv, .xlsx. .txt ) formatu </li>
+<li> Preuzimanje podataka sa Interneta *(Web Scraping)*</li>
+<li> Automatsko preuzimanje podataka *(API)*</li>
+<li> Društvene mreže kao izvor tekstualnih podataka</li>
+<li> Preuzimanje podataka iz .pdf formata</li>
 <ul>
 
 </div>
 
-<b>Format predavanja:</b> <a href="/Predavanja/03_IZVORIdtaXAR.html">.html</a> | <a href="/Predavanja/03_.pdf">.pdf</a> | <a href="/Predavanja/03_IZVORIdtaXAR.Rmd">.Rmd</a> 
-<br><b>Čitanje: </b><a href="/Literatura/BDSources.pdf">Big Data ekosistem u društvenim istraživanjima</a>
+<b>Format predavanja:</b> <a href="/">.html</a> | <a href="/Predavanja/03_.pdf">.pdf</a> | <a href="">.Rmd</a> 
+<br><b>Čitanje: </b> <a href=""> </a>
+
+
+<div style="width: 25%; margin-left: auto; margin-right: auto;">
+<a href="">Predavanje 03: Uvoz tekstulnih podataka u R</a>
+<ul>
+<li> Rad sa podatcima u tabličnom (.csv, .xlsx. .txt ) formatu </li>
+<li> Preuzimanje podataka sa Interneta *(Web Scraping)*</li>
+<li> Automatsko preuzimanje podataka *(API)*</li>
+<li> Društvene mreže kao izvor tekstualnih podataka</li>
+<li> Preuzimanje podataka iz .pdf formata</li>
+<ul>
+
+</div>
+
+<b>Format predavanja:</b> <a href="/">.html</a> | <a href="/Predavanja/03_.pdf">.pdf</a> | <a href="">.Rmd</a> 
+<br><b>Čitanje: </b> <a href=""> </a>
+
+
+
 
 
 
