@@ -180,7 +180,7 @@ Diplomski kolegij 'Strojna obrada teksta' u xy semestru akademske godine 2021/22
 <br>
 
 <div style="width: 25%; margin-left: auto; margin-right: auto;">
-<a href="">Predavanje 09: Strojno učenje na tekstualnim podatcimaa</a>
+<a href="">Predavanje 09: Strojno učenje na tekstualnim podatcima</a>
 <ul>
 <li> Pregled najčešćih metoda strojnog učenja</li>
 <li> Priprema podataka za strojno učenje</li>
@@ -217,27 +217,9 @@ Diplomski kolegij 'Strojna obrada teksta' u xy semestru akademske godine 2021/22
 <br>
 
 
+
 <div style="width: 25%; margin-left: auto; margin-right: auto;">
 <a href="">Predavanje 11: Metode ne-nadgledanog strojnog učenja</a>
-<ul>
-<li> Osnove nedgledanog strojnog učenja</li>
-<li> Parametrijski modeli</li>
-<li> Ne-parametrijski modeli za skaliranje </li>
-<li> Paketi za provedu ne-nadgledanog strojnog učenja u R</li>
-<li> PP ne-nadgledanog strojnog učenja</li>
-<ul>
-
-</div>
-
-<b>Format predavanja:</b> <a href="/">.html</a> | <a href="/Predavanja/03_.pdf">.pdf</a> | <a href="">.Rmd</a> 
-<br><b>Čitanje: </b> <a href=""> </a>
-<br>
-<br>
-<br>
-
-
-<div style="width: 25%; margin-left: auto; margin-right: auto;">
-<a href="">Predavanje 12: Metode ne-nadgledanog strojnog učenja</a>
 <ul>
 <li> Osnove nedgledanog strojnog učenja</li>
 <li> Parametrijski modeli</li>
@@ -256,7 +238,7 @@ Diplomski kolegij 'Strojna obrada teksta' u xy semestru akademske godine 2021/22
 <br>
 
 <div style="width: 25%; margin-left: auto; margin-right: auto;">
-<a href="">Predavanje 13: Opisivanje i usporedba teksta</a>
+<a href="">Predavanje 12: Opisivanje i usporedba teksta</a>
 <ul>
 <li> Leksička raznolikost</li>
 <li> Čitljivost</li>
@@ -272,6 +254,28 @@ Diplomski kolegij 'Strojna obrada teksta' u xy semestru akademske godine 2021/22
 <br>
 <br>
 <br>
+
+
+<div style="width: 25%; margin-left: auto; margin-right: auto;">
+<a href="">Predavanje 12: Opisivanje i usporedba teksta</a>
+<ul>
+<li> Leksička raznolikost</li>
+<li> Čitljivost</li>
+<li> Kriteriji sličnosti: cosine, euklid, jacquard, edit</li>
+<li> Klaster metode: k-means, hijerarhijski klaster </li>
+<li> PP claster analize na tekstovima o predsjedničkim izborima</li>
+<ul>
+
+</div>
+
+<b>Format predavanja:</b> <a href="/">.html</a> | <a href="/Predavanja/03_.pdf">.pdf</a> | <a href="">.Rmd</a> 
+<br><b>Čitanje: </b> <a href=""> </a>
+<br>
+<br>
+<br>
+
+
+
 
 
 
