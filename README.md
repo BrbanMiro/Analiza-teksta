@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="/Bilder/frontBild2.jpg" width="750" title="hover text">
+  <img src="/Bilder/frontBild.png" width="750" title="hover text">
 </p>
 
  
@@ -14,6 +14,140 @@ Diplomski kolegij 'Strojna obrada teksta' u xy semestru akademske godine 2021/22
 
 <b>Predavanja</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;xy,&nbsp;xy
 <br><b>Konzultacije</b>&nbsp;&nbsp;&nbsp;xy,&nbsp;xy
+
+
+# Materijali sa predavanja
+
+<i>Napomena 1:</i> Predavanja će biti u više formata (.pdf,.html i .Rmd.) kako bi se omogućilo online i lokalno korištenje resursa.
+<i>Napomena 2:</i> Kolegij je strukturiran u tri cjeline:
+1. Priprema tekstualnih podataka za analizu.
+2. Pristupi i modeli za analizu teksta
+3. Napredne teme iz analize teksta i praktični primjeri.
+
+
+### Predavanja
+<br>
+<br>
+<br>
+<div style="width: 25%; margin-left: auto; margin-right: auto;">
+<a href="/Predavanja/01_UVOD.pdf">Predavanje 01: Pregled kolegija i studentskih obveza</a>
+<ul>
+<li> Pregled studentskih obveza i struktura kolegija</li>
+<li> "Big Data" u društvenim i humanističkim znanostima</li>
+<li> CSS (computational social science) metodologija i analiza teksta</li>
+<li> Izvori i vrste podataka za analizu teksta</li>
+<li> Primjeri analize teksta (motivacija za kolegij)</li>
+<ul>
+
+</div>
+
+<b>Format predavanja:</b> <a href="">.html</a> | <a href="">.pdf</a> | <a href="">.Rmd</a> 
+<br><b>Čitanje: </b> <a href=""> </a> + <a href=""> </a> + <a href=""> </a> 
+<br>
+<br>
+<br>
+
+<div style="width: 25%; margin-left: auto; margin-right: auto;">
+<a href="">Predavanje 02: Uvod u R (+ Dodatni koncepti R) </a>
+<ul>
+<li> Zašto R?</li>
+<li> Osnovni koncepti</a></li>
+<li> Objektno orjentirano programiranje (u R)</li>
+<li> "Sve je objekt"</li>
+<li> "Sve ima naziv"</li>
+<li> Indeksiranje</li>
+<li> Čišćenje</li>
+<li> Različiti pristupi za manipulaciju podatcima u R</li>
+<ul>
+
+</div>
+
+<b>Format predavanja:</b> <a href="">.html</a> | <a href="">.pdf</a> | <a href="">.Rmd</a> 
+<br><b>Čitanje: </b> <a href=""> Uvod u R - skripta I </a> + <a href=""> Uvod u R - skripta II </a> + <a href="https://r4ds.had.co.nz/"> R for Data Science </a> 
+<br>
+<br>
+<br>
+
+<div style="width: 25%; margin-left: auto; margin-right: auto;">
+<a href="">Predavanje 03: Uvoz tekstulnih podataka u R</a>
+<ul>
+<li> Rad sa podatcima u tabličnom (.csv, .xlsx. .txt ) formatu </li>
+<li> Preuzimanje podataka sa Interneta (Web Scraping)</li>
+<li> Automatsko preuzimanje podataka (API)</li>
+<li> Društvene mreže kao izvor tekstualnih podataka</li>
+<li> Preuzimanje podataka iz .pdf formata</li>
+<ul>
+
+</div>
+
+<b>Format predavanja:</b> <a href="/">.html</a> | <a href="/Predavanja/03_.pdf">.pdf</a> | <a href="">.Rmd</a> 
+<br><b>Čitanje: </b> <a href=""> </a>
+<br>
+<br>
+<br>
+
+<div style="width: 25%; margin-left: auto; margin-right: auto;">
+<a href="">Predavanje 04: Uvoz tekstulnih podataka u R</a>
+<ul>
+<li> Rad sa podatcima u tabličnom (.csv, .xlsx. .txt ) formatu </li>
+<li> Preuzimanje podataka sa Interneta *(Web Scraping)*</li>
+<li> Automatsko preuzimanje podataka *(API)*</li>
+<li> Društvene mreže kao izvor tekstualnih podataka</li>
+<li> Preuzimanje podataka iz .pdf formata</li>
+<ul>
+
+</div>
+
+<b>Format predavanja:</b> <a href="/">.html</a> | <a href="/Predavanja/03_.pdf">.pdf</a> | <a href="">.Rmd</a> 
+<br><b>Čitanje: </b> <a href=""> </a>
+<br>
+<br>
+<br>
+
+<div style="width: 25%; margin-left: auto; margin-right: auto;">
+<a href="">Predavanje 03: Uvoz tekstulnih podataka u R</a>
+<ul>
+<li> u </li>
+<li> Preuzimanje podataka sa Interneta *(Web Scraping)*</li>
+<li> Automatsko preuzimanje podataka *(API)*</li>
+<li> Društvene mreže kao izvor tekstualnih podataka</li>
+<li> Preuzimanje podataka iz .pdf formata</li>
+<ul>
+
+</div>
+
+<b>Format predavanja:</b> <a href="/">.html</a> | <a href="/Predavanja/03_.pdf">.pdf</a> | <a href="">.Rmd</a> 
+<br><b>Čitanje: </b> <a href=""> </a>
+<br>
+<br>
+<br>
+
+
+
+<a href="/Predavanja/04_UCITAVANJEdta.pdf">Predavanje 04: Osnove programskog jezika R</a>
+
+<a href="/Predavanja/05_PRIKUPLJANJEdta.pdf">Predavanje 05: Prikupljanje podataka sa interneta</a>
+
+<a href="/Predavanja/06_SPREMANJEdta.pdf">Predavanje 06: Spremanje i baze podataka</a>
+
+<a href="/Predavanja/07_MANIPULACIJAdta.pdf">Predavanje 07: Manipulacija i prilagodba podataka</a>
+
+<a href="/Predavanja/08_PODRŠKA.pdf">Predavanje 08: Podrška za provedbu empirijske analize</a>
+
+<a href="/Predavanja/09_ANALIZA.pdf">Predavanje 09: Statistička analiza</a>
+
+<a href="/Predavanja/10_STROJNO.pdf">Predavanje 10: Strojno učenje</a>
+
+<a href="/Predavanja/11_TEKST.pdf">Predavanje 11: Analiza teksta</a>
+
+<a href="/Predavanja/12_STATICKI.pdf">Predavanje 12: Prezentacija podataka u statičkom formatu</a>
+
+<a href="/Predavanja/13_DINAMICKI.pdf">Predavanje 13: Prezentacija podataka u dinamičkom formatu</a>
+
+<a href="/Predavanja/14_DINAMICKI.pdf">Predavanje 14: Prezentacija podataka u interaktivnom formatu</a>
+
+<a href="/Predavanja/15_OBJAVA.pdf">Predavanje 15: Objava i dijeljenje rezultata analize</a>
+
 
 # Literatura i korisni resursi
 
@@ -104,112 +238,6 @@ Sljedeći resursi ulaze u osnovnu literaturu za kolegij:
 
 <a href="https://www.youtube.com/playlist?list=PLQiyVNMpDLKnZYBTUOlSI9mi9wAErFtFm">YouTube</a>
 <br>Izvstan kolegij iz (NLP) analize teksta organiziran kroz kratka predavanja. Praktično i efikasno!
-
-
-# Materijali sa predavanja
-
-<i>Napomena 1:</i> Predavanja će biti u više formata (.pdf,.html i .Rmd.) kako bi se omogućilo online i lokalno korištenje resursa.
-<i>Napomena 2:</i> Kolegij je strukturiran u tri cjeline:
-1. Priprema tekstualnih podataka za analizu.
-2. Pristupi i modeli za analizu teksta
-3. Napredne teme iz analize teksta i praktični primjeri.
-
-
-### Predavanja
-
-<div style="width: 25%; margin-left: auto; margin-right: auto;">
-<a href="/Predavanja/01_UVOD.pdf">Predavanje 01: Pregled kolegija i studentskih obveza</a>
-<ul>
-<li> Pregled studentskih obveza i struktura kolegija</li>
-<li> "Big Data" u društvenim i humanističkim znanostima</li>
-<li> CSS *(computational social science)* metodologija i analiza teksta</li>
-<li> Izvori i vrste podataka za analizu teksta</li>
-<li> Primjeri analize teksta *(motivacija za kolegij)*</li>
-<ul>
-
-</div>
-
-
-<div style="width: 25%; margin-left: auto; margin-right: auto;">
-<a href="">Predavanje 02: Uvod u R (+ Dodatni koncepti R) </a>
-<ul>
-<li> Zašto R?</li>
-<li> Osnovni koncepti</a></li>
-<li> Objektno orjentirano programiranje *(u R)*</li>
-<li> "Sve je objekt"</li>
-<li> "Sve ima naziv"</li>
-<li> Indeksiranje</li>
-<li> Čišćenje</li>
-<li> Različiti pristupi za manipulaciju podatcima u R</li>
-<ul>
-
-</div>
-
-<b>Format predavanja:</b> <a href="">.html</a> | <a href="">.pdf</a> | <a href="">.Rmd</a> 
-<br><b>Čitanje: </b> <a href=""> Uvod u R - skripta I </a> + <a href=""> Uvod u R - skripta II </a> + <a href="https://r4ds.had.co.nz/"> R for Data Science </a> + <a href=""> </a>
-
-
-<div style="width: 25%; margin-left: auto; margin-right: auto;">
-<a href="">Predavanje 03: Uvoz tekstulnih podataka u R</a>
-<ul>
-<li> Rad sa podatcima u tabličnom (.csv, .xlsx. .txt ) formatu </li>
-<li> Preuzimanje podataka sa Interneta *(Web Scraping)*</li>
-<li> Automatsko preuzimanje podataka *(API)*</li>
-<li> Društvene mreže kao izvor tekstualnih podataka</li>
-<li> Preuzimanje podataka iz .pdf formata</li>
-<ul>
-
-</div>
-
-<b>Format predavanja:</b> <a href="/">.html</a> | <a href="/Predavanja/03_.pdf">.pdf</a> | <a href="">.Rmd</a> 
-<br><b>Čitanje: </b> <a href=""> </a>
-
-
-<div style="width: 25%; margin-left: auto; margin-right: auto;">
-<a href="">Predavanje 03: Uvoz tekstulnih podataka u R</a>
-<ul>
-<li> Rad sa podatcima u tabličnom (.csv, .xlsx. .txt ) formatu </li>
-<li> Preuzimanje podataka sa Interneta *(Web Scraping)*</li>
-<li> Automatsko preuzimanje podataka *(API)*</li>
-<li> Društvene mreže kao izvor tekstualnih podataka</li>
-<li> Preuzimanje podataka iz .pdf formata</li>
-<ul>
-
-</div>
-
-<b>Format predavanja:</b> <a href="/">.html</a> | <a href="/Predavanja/03_.pdf">.pdf</a> | <a href="">.Rmd</a> 
-<br><b>Čitanje: </b> <a href=""> </a>
-
-
-
-
-
-
-<a href="/Predavanja/04_UCITAVANJEdta.pdf">Predavanje 04: Osnove programskog jezika R</a>
-
-<a href="/Predavanja/05_PRIKUPLJANJEdta.pdf">Predavanje 05: Prikupljanje podataka sa interneta</a>
-
-<a href="/Predavanja/06_SPREMANJEdta.pdf">Predavanje 06: Spremanje i baze podataka</a>
-
-<a href="/Predavanja/07_MANIPULACIJAdta.pdf">Predavanje 07: Manipulacija i prilagodba podataka</a>
-
-<a href="/Predavanja/08_PODRŠKA.pdf">Predavanje 08: Podrška za provedbu empirijske analize</a>
-
-<a href="/Predavanja/09_ANALIZA.pdf">Predavanje 09: Statistička analiza</a>
-
-<a href="/Predavanja/10_STROJNO.pdf">Predavanje 10: Strojno učenje</a>
-
-<a href="/Predavanja/11_TEKST.pdf">Predavanje 11: Analiza teksta</a>
-
-<a href="/Predavanja/12_STATICKI.pdf">Predavanje 12: Prezentacija podataka u statičkom formatu</a>
-
-<a href="/Predavanja/13_DINAMICKI.pdf">Predavanje 13: Prezentacija podataka u dinamičkom formatu</a>
-
-<a href="/Predavanja/14_DINAMICKI.pdf">Predavanje 14: Prezentacija podataka u interaktivnom formatu</a>
-
-<a href="/Predavanja/15_OBJAVA.pdf">Predavanje 15: Objava i dijeljenje rezultata analize</a>
-
-
 
 # Polaganje ispita i kolokvija
 
