@@ -47,8 +47,6 @@ Sljedeći resursi ulaze u osnovnu literaturu za kolegij:
 <br>Ovo je napredna literatura za šire metodološkog konteksta kolegija *(analize teksta)*.
 
 
-
-
 ### Članci
 
 <a href="/Literatura/Text Analysis in R.pdf">Text Analysis in R (2017)</a>
@@ -71,6 +69,7 @@ Sljedeći resursi ulaze u osnovnu literaturu za kolegij:
 ### Korisni repozitoriji
 
 
+
 <a href="https://github.com/stepthom/text_mining_resources">Sistematizirani popis **svih** relevantnih resursa o analizi teksta.</a>
 
 <a href="https://github.com/hjmschoonvelde/CEU_ATA_2019">Kolegij iz analize teksta u političkim znanostima.</a> 
@@ -87,6 +86,9 @@ Sljedeći resursi ulaze u osnovnu literaturu za kolegij:
 
 <a href="https://learn.datacamp.com/skill-tracks/text-mining-with-r">DataCamp</a>
 <br>Modul tečajeva o analizi teksta u R. Ovaj modul je usko povezan sa knjigom **Text Mining with R** što je glavna literatura za ovaj kolegij. Korisno!
+
+<a href="https://lse-my459.github.io/r">London School of Economics</a>
+<br>Izvstan kolegij iz analize teksta na LSE. Materijali ne uključuju video sadržaj. Posebno korisno za studente društvenih znanosti.
 
 <a href="https://www.coursera.org/courses?query=natural%20language%20processing&/">Coursera</a>
 <br>Mnoštvo tečajeva iz analize teksta. U slučaju potrebe za dubljim razumjevanjem specifičnih pristupa analize teksta.  
