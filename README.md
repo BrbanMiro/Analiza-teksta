@@ -295,7 +295,22 @@ Diplomski kolegij 'Strojna obrada teksta' u xy semestru akademske godine 2021/22
 <br>
 
 
+<div style="width: 25%; margin-left: auto; margin-right: auto;">
+<a href="">Predavanje 15: Praktični primjeri analize teksta</a>
+<ul>
+<li> Rad sa twitter platformom</li>
+<li> Analiza novinskih portali preko webhose.io API</li>
+<li> Potencijal analice facebook platforme</li>
+<li> Analiza znanstvenih paradigmi na osnovi CROSBI podataka</li>
+<ul>
 
+</div>
+
+<b>Format predavanja:</b> <a href="/">.html</a> | <a href="/Predavanja/03_.pdf">.pdf</a> | <a href="">.Rmd</a> 
+<br><b>Čitanje: </b> <a href=""> </a>
+<br>
+<br>
+<br>
 
 
 
