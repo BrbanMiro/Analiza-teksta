@@ -278,12 +278,13 @@ Diplomski kolegij 'Strojna obrada teksta' u xy semestru akademske godine 2021/22
 <div style="width: 25%; margin-left: auto; margin-right: auto;">
 <a href="">Predavanje 14: Napredne teme iz analize teksta</a>
 <ul>
-<li> </li>
-<li> </li>
-<li> </li>
-<li> </li>
-<li> </li>
-<li> </li>
+<li>Usporedba R i Python u analizi teksta</li>
+<li> Označavanje djelova teksta (Part-of-speech tagging)</li>
+<li> Prepoznavanje entiteta u tekstu (Named entity recognition)</li>
+<li> Procesuiranje tekstualnih zavisnosti (Dependency parsing)</li>
+<li> Modeliranje sintakse i analiza pozicija riječi </li>
+<li> Podrška za NLP u R</li>
+<li> Primjeri NLP praksi (poslovanju)</li>
 <ul>
 
 </div>
@@ -299,9 +300,8 @@ Diplomski kolegij 'Strojna obrada teksta' u xy semestru akademske godine 2021/22
 <a href="">Predavanje 15: Praktični primjeri analize teksta</a>
 <ul>
 <li> Rad sa twitter platformom</li>
-<li> Analiza novinskih portali preko webhose.io API</li>
-<li> Potencijal analice facebook platforme</li>
-<li> Analiza znanstvenih paradigmi na osnovi CROSBI podataka</li>
+<li> Analiza novinskih portala preko webhose.io API</li>
+<li> Potencijal rada sa facebook platformom</li>
 <ul>
 
 </div>
@@ -311,13 +311,6 @@ Diplomski kolegij 'Strojna obrada teksta' u xy semestru akademske godine 2021/22
 <br>
 <br>
 <br>
-
-
-
-
-
-
-
 
 
 # Literatura i korisni resursi
