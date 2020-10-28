@@ -368,6 +368,7 @@ Sljedeći resursi ulaze u osnovnu literaturu za kolegij:
 
 
 <a href="https://github.com/stepthom/text_mining_resources">Sistematizirani popis **svih** relevantnih resursa o analizi teksta.</a>
+<br>Polazište za samostalno istraživanje analize teksta.
 
 <a href="https://github.com/hjmschoonvelde/CEU_ATA_2019">Kolegij iz analize teksta u političkim znanostima.</a> 
 <br>Sadrži iscrpan popis relevantnih akademskih radova iz analize teksta.
