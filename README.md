@@ -117,27 +117,36 @@ Sljedeći resursi ulaze u osnovnu literaturu za kolegij:
 
 ### Predavanja
 
-
-<a href="/Predavanja/01_UVOD.pdf">Predavanje 01: Pregled kolegija i studentskih obveza</a>
-
-- "Big Data" u društvenim i humanističkim znanostima
-- CSS
-
 <div style="width: 25%; margin-left: auto; margin-right: auto;">
-<a href="">Predavanje 02: Vrste podataka</a>
+<a href="/Predavanja/01_UVOD.pdf">Predavanje 01: Pregled kolegija i studentskih obveza</a>
 <ul>
-<li> Strukturirani i ne-strukturirani podatci</li>
-<li> <a href="https://www.youtube.com/watch?v=_I2GrxUGNQc&t=2">Kvantitativni i kvalitativni</a></li>
-<li> Diskretni i kontinuirani podatci</li>
-<li> Razine podataka</li>
-<li> Podatci u "praksi"</li>
-<li> <a href="/Literatura/Shu-Heng Chen - Big Data in Computational Social Science and Humanities-Springer (2018).pdf">"Big data" u društvenim i humanističkim znanostim</a></li>
+<li> Pregled studentskih obveza i struktura kolegija</li>
+<li> "Big Data" u društvenim i humanističkim znanostima</li>
+<li> CSS *(computational social science)* metodologija i analiza teksta</li>
+<li> Izvori i vrste podataka za analizu teksta</li>
+<li> Primjeri analize teksta *(motivacija za kolegij)*</li>
 <ul>
 
 </div>
 
-<b>Format predavanja:</b> <a href="https://raw.githack.com/BrbanMiro/Obrada-podataka/main/Predavanja/02_VRSTEdta.html">.html</a> | <a href="https://raw.githack.com/BrbanMiro/Statistika/main/Predavanja/03_DESKRIPTIVNA_STATISTIKA_sdy.pdf">.pdf</a> | <a href="/Predavanja/02_VRSTEdta.Rmd">.Rmd</a> | <a href="https://raw.githack.com/BrbanMiro/Obrada-podataka/main/Predavanja/03_VRSTEdtaXAR.html">.xar</a>
-<br><b>Čitanje: </b><a href="/Literatura/Vrste_podataka.pdf">Vrste podataka-poglavlje u knjizi</a> + <a href="/Literatura/Sociology in the Era of Big Data.pdf">Sociology in the Era of Big Data</a> + <a href="/Literatura/VELIKI PODACI – VELIKI IZAZOV ZA SOCIOLOGIJU.pdf">Veliki podatci-veliki izazov za sociologiju</a> + <a href="/Literatura/Msc_mastruko_Kristalna kugla.pdf">Uloga big data, algoritama i prediktivne analitike u konstrukciji zbilje</a>
+
+<div style="width: 25%; margin-left: auto; margin-right: auto;">
+<a href="">Predavanje 02: Uvod u R (+ Dodatni koncepti R) </a>
+<ul>
+<li> Zašto R?</li>
+<li> Osnovni koncepti</a></li>
+<li> Objektno orjentirano programiranje *(u R)*</li>
+<li> "Sve je objekt"</li>
+<li> "Sve ima naziv"</li>
+<li> Indeksiranje</li>
+<li> Čišćenje</li>
+<li> Različiti pristupi za manipulaciju podatcima u R</li>
+<ul>
+
+</div>
+
+<b>Format predavanja:</b> <a href="">.html</a> | <a href="">.pdf</a> | <a href="">.Rmd</a> 
+<br><b>Čitanje: </b> <a href=""> Uvod u R - skripta I </a> + <a href=""> Uvod u R - skripta II </a> + <a href="https://r4ds.had.co.nz/"> R for Data Science </a> + <a href=""> </a>
 
 
 <div style="width: 25%; margin-left: auto; margin-right: auto;">
