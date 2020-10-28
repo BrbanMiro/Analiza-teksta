@@ -7,7 +7,7 @@
  
 
 # Strojna obrada teksta
-Diplomski kolegij 'Strojna obrada teksta' u xy semestru akademske godine 2021/22 na Fakultetu hrvatskih studija u Zagrebu. Kolegij je prvenstveno namijenjen studentima komunikologije na diplomskoj razini, a također kompatibilan sa pristupima obrade teksta u drugim društvenim (sociologija, politologija, povijest, pravo) i humanističkim (antropologija, literatura) znanostima. 
+Diplomski kolegij 'Strojna obrada teksta' u xy semestru akademske godine 2021/22 na Fakultetu hrvatskih studija u Zagrebu. Kolegij je prvenstveno namijenjen studentima komunikologije na diplomskoj razini, a također kompatibilan sa pristupima obrade teksta u drugim društvenim (sociologija, politologija, novinarstvo, psihologija, ekonomija, povijest, pravo) i humanističkim (antropologija, literatura) znanostima. Kolegij polazi od CSS
 
 
 # Raspored
@@ -25,11 +25,11 @@ Sljedeći resursi ulaze u osnovnu literaturu za kolegij:
 
 
 <a href="/Literatura/Text mining with R(2017).pdf">Text Mining with R</a>
-<br><i>od Julia Silge i David Robinson</i> 
+<br><i>od Julia Silge i David Robinson.</i> 
 <br>Ovo je **osnovna** literatura za kolegij. Dostupna je i <a href="https://www.tidytextmining.com/">bookdown</a> verzija.
 
 <a href="/Literatura/Text Mining in Practice with R (2017).pdf">Text Mining in Practice with R</a>
-<br><i>Ted Kwartler.</i> 
+<br><i>od Ted Kwartler.</i> 
 <br>Literatura za studente koji žele razumjeti analizu teksta na dubljoj razini. *Knjiga se odnosi na programski jezik R*.
 
 <a href="/Literatura/Mastering Text Mining with R.pdf">Mastering Text Mining with R</a>
@@ -48,8 +48,41 @@ Sljedeći resursi ulaze u osnovnu literaturu za kolegij:
 <a href="/Literatura/Text as Data.pdf">Text as Data (2013)</a>
 <br>Članak opisuje potencijale i ograničenja analize teksta sa naglaskom na političke tekstove.
 
+
 ### Korisni repozitoriji
 
+
+<a href="https://github.com/stepthom/text_mining_resources">Sistematizirani popis **svih** relevantnih resursa o analizi teksta.</a>
+
+<a href="https://github.com/hjmschoonvelde/CEU_ATA_2019">Kolegij iz analize teksta u političkim znanostima.</a> 
+<br>Sadrži iscrpan popis relevantnih akademskih radova iz analize teksta.
+
+<a href="https://github.com/hjmschoonvelde/CEU_ATA_2019">Kolegij iz analize teksta u političkim znanostima.</a> 
+<br>Sadrži iscrpan popis relevantnih akademskih radova iz analize teksta.
+
+<a href="https://github.com/aleszu/text-mining-course">Tutorial iz analize teksta u komunikologiji.</a> 
+<br>Sadrži zanimljive reseurse i praktične primjere analize. Posebno korisno za studente komunikologije i novinarstva.
+
+<a href="https://cran.r-project.org/web/views/NaturalLanguageProcessing.html">NLP Cran Task View.</a>
+<br>Popis svih relevantnih paketa za rad sa teksom u programskom jeziku R.
+
+
+### Online predavanja
+
+<a href="https://learn.datacamp.com/skill-tracks/text-mining-with-r">DataCamp</a>
+<br>Modul tečajeva o analizi teksta u R. Ovaj modul je usko povezan sa knj
+
+<a href="https://www.coursera.org/courses?query=natural%20language%20processing&/">Coursera</a>
+<br>Brojni tečajeva iz analize teksta. U slučaju potrebe za dubljim razumjevanjem specifičnih pristupa analize teksta.  
+
+<a href="http://cs224d.stanford.edu/">Stanford University</a>
+<br>Napredni *(frontier)* kolegij iz analize teksta. 
+
+<a href="https://www.udemy.com/course/master-natural-language-processing-nlp-text-mining-without-coding/">Udemy 1</a>
+<br>Kolegij iz tečaj teksta bez programskog jezika. Koristan uvodni tečaj.
+
+<a href="https://www.udemy.com/course/nlp-natural-language-processing-with-python/">Udemy 2</a>
+<br>Uvodni tečaj iz (NLP) analize teksta u programskom jeziku Python.
 
 
 
