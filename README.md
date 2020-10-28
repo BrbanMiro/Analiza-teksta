@@ -6,26 +6,23 @@
 
  
 
-# Strojna obrada teksta
+# Opis kolegija
 Diplomski kolegij 'Strojna obrada teksta' u xy semestru akademske godine 2021/22 na Fakultetu hrvatskih studija u Zagrebu. Kolegij je prvenstveno namijenjen studentima komunikologije na diplomskoj razini, a također kompatibilan sa pristupima obrade teksta u drugim društvenim (sociologija, politologija, novinarstvo, psihologija, ekonomija, povijest, pravo) i humanističkim (antropologija, literatura) znanostima. Kolegij polazi od CSS
 
 
 # Raspored
 
-<b>Predavanja</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;xy,&nbsp;xy
-<br><b>Konzultacije</b>&nbsp;&nbsp;&nbsp;xy,&nbsp;xy
+<b>Predavanja</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;??,&nbsp;??
+<br><b>Konzultacije</b>&nbsp;&nbsp;&nbsp;??,&nbsp;??
 
 
-# Materijali sa predavanja
+# Predavanja
 
 <i>Napomena 1:</i> Predavanja će biti u više formata (.pdf,.html i .Rmd.) kako bi se omogućilo online i lokalno korištenje resursa.
 <i>Napomena 2:</i> Kolegij je strukturiran u tri cjeline:
 1. Priprema tekstualnih podataka za analizu.
 2. Pristupi i modeli za analizu teksta
 3. Napredne teme iz analize teksta i praktični primjeri.
-
-
-### Predavanja
 <br>
 <br>
 <br>
@@ -42,7 +39,7 @@ Diplomski kolegij 'Strojna obrada teksta' u xy semestru akademske godine 2021/22
 </div>
 
 <b>Format predavanja:</b> <a href="">.html</a> | <a href="">.pdf</a> | <a href="">.Rmd</a> 
-<br><b>Čitanje: </b> <a href=""> </a> + <a href=""> </a> + <a href=""> </a> 
+<br><b>Čitanje: </b> <a href="">Big Data u društvenim znanostima</a> + <a href="">Kvantitativni pristup društvenim istraživanjima </a> 
 <br>
 <br>
 <br>
@@ -87,13 +84,15 @@ Diplomski kolegij 'Strojna obrada teksta' u xy semestru akademske godine 2021/22
 <br>
 
 <div style="width: 25%; margin-left: auto; margin-right: auto;">
-<a href="">Predavanje 04: Uvoz tekstulnih podataka u R</a>
+<a href="">Predavanje 04: Manipulacija sa tekstualnim podatcima u R</a>
 <ul>
-<li> Rad sa podatcima u tabličnom (.csv, .xlsx. .txt ) formatu </li>
-<li> Preuzimanje podataka sa Interneta *(Web Scraping)*</li>
-<li> Automatsko preuzimanje podataka *(API)*</li>
-<li> Društvene mreže kao izvor tekstualnih podataka</li>
-<li> Preuzimanje podataka iz .pdf formata</li>
+<li> "String" teorija</li>
+<li> Paketi za operacije sa stringovima u R</li>
+<li> Osnove regex-a</li>
+<li> Tokenzizacija teksta</li>
+<li> Normalizacija teksta: lematizacija i selekcija korijena riječi</li>
+<li> "Stop" riječi</li>
+<li> Matrica dokumenta riječi (DTM) vs tidytext pristup</li>
 <ul>
 
 </div>
@@ -105,13 +104,165 @@ Diplomski kolegij 'Strojna obrada teksta' u xy semestru akademske godine 2021/22
 <br>
 
 <div style="width: 25%; margin-left: auto; margin-right: auto;">
-<a href="">Predavanje 03: Uvoz tekstulnih podataka u R</a>
+<a href="">Predavanje 05: Filtriranje teksta i osnovna deskriptivna statistika</a>
 <ul>
-<li> u </li>
-<li> Preuzimanje podataka sa Interneta *(Web Scraping)*</li>
-<li> Automatsko preuzimanje podataka *(API)*</li>
-<li> Društvene mreže kao izvor tekstualnih podataka</li>
-<li> Preuzimanje podataka iz .pdf formata</li>
+<li> Tidytext pristup tekstualnim podatcima</li>
+<li> Tekst kao podatci u tabličnom formatu</li>
+<li> Frekvencijska analiza:najčešće riječi, najvažniji termini, varijabilnost pojmova</li>
+<li> Praktični primjer (PP) jednostavne deskriptivne statistike teksta na novinskim člancima</li>
+<ul>
+
+</div>
+
+<b>Format predavanja:</b> <a href="/">.html</a> | <a href="/Predavanja/03_.pdf">.pdf</a> | <a href="">.Rmd</a> 
+<br><b>Čitanje: </b> <a href=""> </a>
+<br>
+<br>
+<br>
+
+<div style="width: 25%; margin-left: auto; margin-right: auto;">
+<a href="">Predavanje 06: Manipulacija tekstualnih podataka u R</a>
+<ul>
+<li> "String" teorija</li>
+<li> Paketi za operacije sa stringovima u R</li>
+<li> Osnove regex-a</li>
+<li> Tokenzizacija teksta</li>
+<li> Normalizacija teksta: lematizacija, korjenovanje riječi i "stop" riječi</li>
+<li> Matrica dokumenta riječi (DTM) vs tidytext pristup</li>
+<ul>
+
+</div>
+
+<b>Format predavanja:</b> <a href="/">.html</a> | <a href="/Predavanja/03_.pdf">.pdf</a> | <a href="">.Rmd</a> 
+<br><b>Čitanje: </b> <a href=""> </a>
+<br>
+<br>
+<br>
+
+
+<div style="width: 25%; margin-left: auto; margin-right: auto;">
+<a href="">Predavanje 07: Napredne metode deskriptivne statistike na tekstualnim podatcima</a>
+<ul>
+<li> Definiranje dokumenata i karakteristika (meta-podataka)</li>
+<li> Procedure za ponderiranje meta-podataka</li>
+<li> Procedure za izbor meta-podataka</li>
+<li> Metode za deskriptivnu statistiku na tekstu</li>
+<li> Normalizacija teksta: lematizacija, korjenovanje riječi i "stop" riječi</li>
+<li> Matrica dokumenta riječi (DTM) vs tidytext pristup</li>
+<li> PP deskriptivne statistike na twitter podatcima</li>
+<ul>
+
+</div>
+
+<b>Format predavanja:</b> <a href="/">.html</a> | <a href="/Predavanja/03_.pdf">.pdf</a> | <a href="">.Rmd</a> 
+<br><b>Čitanje: </b> <a href=""> </a>
+<br>
+<br>
+<br>
+
+<div style="width: 25%; margin-left: auto; margin-right: auto;">
+<a href="">Predavanje 08: Rad sa tekstualnim riječnicima</a>
+<ul>
+<li> Pregled riječničkih metoda</li>
+<li> Poznati tekstualni riječnici i CroSentilex riječnik</li>
+<li> Prednosti i nedostatci analize sa tekstualnim riječnicima </li>
+<li> Izrada vlastitog riječnika</li>
+<li> Detekcija ključnih riječi</li>
+<li> PP rada sa tekstualnim riječnicima na hrvatskim političkim tekstovima</li>
+<ul>
+
+</div>
+
+<b>Format predavanja:</b> <a href="/">.html</a> | <a href="/Predavanja/03_.pdf">.pdf</a> | <a href="">.Rmd</a> 
+<br><b>Čitanje: </b> <a href=""> </a>
+<br>
+<br>
+<br>
+
+<div style="width: 25%; margin-left: auto; margin-right: auto;">
+<a href="">Predavanje 09: Strojno učenje na tekstualnim podatcimaa</a>
+<ul>
+<li> Pregled najčešćih metoda strojnog učenja</li>
+<li> Priprema podataka za strojno učenje</li>
+<li> Mjere klasifikacijske točnosti </li>
+<li> Primjeri klasifikacije u analizi teksta</li>
+<li> Podrška za strojno učenje u R</li>
+<li> Pregled istraživanja koji koriste klasifikacijske modele</li>
+<ul>
+
+</div>
+
+<b>Format predavanja:</b> <a href="/">.html</a> | <a href="/Predavanja/03_.pdf">.pdf</a> | <a href="">.Rmd</a> 
+<br><b>Čitanje: </b> <a href=""> </a>
+<br>
+<br>
+<br>
+
+<div style="width: 25%; margin-left: auto; margin-right: auto;">
+<a href="">Predavanje 10: Metode nadgledanog strojnog učenja</a>
+<ul>
+<li> Bayesov model</li>
+<li> Regularizirana regresija: lasso i ridge</li>
+<li> Wordscores metode za skaliranje </li>
+<li> Paketi za provedu nadgledanog strojnog učenja u R</li>
+<li> Pregled Wordscores analize na aktualnoj temi na internetskim portalima</li>
+<ul>
+
+</div>
+
+<b>Format predavanja:</b> <a href="/">.html</a> | <a href="/Predavanja/03_.pdf">.pdf</a> | <a href="">.Rmd</a> 
+<br><b>Čitanje: </b> <a href=""> </a>
+<br>
+<br>
+<br>
+
+
+<div style="width: 25%; margin-left: auto; margin-right: auto;">
+<a href="">Predavanje 11: Metode ne-nadgledanog strojnog učenja</a>
+<ul>
+<li> Osnove nedgledanog strojnog učenja</li>
+<li> Parametrijski modeli</li>
+<li> Ne-parametrijski modeli za skaliranje </li>
+<li> Paketi za provedu ne-nadgledanog strojnog učenja u R</li>
+<li> PP ne-nadgledanog strojnog učenja</li>
+<ul>
+
+</div>
+
+<b>Format predavanja:</b> <a href="/">.html</a> | <a href="/Predavanja/03_.pdf">.pdf</a> | <a href="">.Rmd</a> 
+<br><b>Čitanje: </b> <a href=""> </a>
+<br>
+<br>
+<br>
+
+
+<div style="width: 25%; margin-left: auto; margin-right: auto;">
+<a href="">Predavanje 12: Metode ne-nadgledanog strojnog učenja</a>
+<ul>
+<li> Osnove nedgledanog strojnog učenja</li>
+<li> Parametrijski modeli</li>
+<li> Ne-parametrijski modeli za skaliranje </li>
+<li> Korespondecijski modeli </li>
+<li> Paketi za provedu nadgledanog strojnog učenja u R</li>
+<li> PP Wordscores analize na aktualnoj temi na internetskim portalima</li>
+<ul>
+
+</div>
+
+<b>Format predavanja:</b> <a href="/">.html</a> | <a href="/Predavanja/03_.pdf">.pdf</a> | <a href="">.Rmd</a> 
+<br><b>Čitanje: </b> <a href=""> </a>
+<br>
+<br>
+<br>
+
+<div style="width: 25%; margin-left: auto; margin-right: auto;">
+<a href="">Predavanje 13: Opisivanje i usporedba teksta</a>
+<ul>
+<li> Leksička raznolikost</li>
+<li> Čitljivost</li>
+<li> Kriteriji sličnosti: cosine, euklid, jacquard, edit</li>
+<li> Klaster metode: k-means, hijerarhijski klaster </li>
+<li> PP claster analize na tekstovima o predsjedničkim izborima</li>
 <ul>
 
 </div>
@@ -124,29 +275,12 @@ Diplomski kolegij 'Strojna obrada teksta' u xy semestru akademske godine 2021/22
 
 
 
-<a href="/Predavanja/04_UCITAVANJEdta.pdf">Predavanje 04: Osnove programskog jezika R</a>
 
-<a href="/Predavanja/05_PRIKUPLJANJEdta.pdf">Predavanje 05: Prikupljanje podataka sa interneta</a>
 
-<a href="/Predavanja/06_SPREMANJEdta.pdf">Predavanje 06: Spremanje i baze podataka</a>
 
-<a href="/Predavanja/07_MANIPULACIJAdta.pdf">Predavanje 07: Manipulacija i prilagodba podataka</a>
 
-<a href="/Predavanja/08_PODRŠKA.pdf">Predavanje 08: Podrška za provedbu empirijske analize</a>
 
-<a href="/Predavanja/09_ANALIZA.pdf">Predavanje 09: Statistička analiza</a>
 
-<a href="/Predavanja/10_STROJNO.pdf">Predavanje 10: Strojno učenje</a>
-
-<a href="/Predavanja/11_TEKST.pdf">Predavanje 11: Analiza teksta</a>
-
-<a href="/Predavanja/12_STATICKI.pdf">Predavanje 12: Prezentacija podataka u statičkom formatu</a>
-
-<a href="/Predavanja/13_DINAMICKI.pdf">Predavanje 13: Prezentacija podataka u dinamičkom formatu</a>
-
-<a href="/Predavanja/14_DINAMICKI.pdf">Predavanje 14: Prezentacija podataka u interaktivnom formatu</a>
-
-<a href="/Predavanja/15_OBJAVA.pdf">Predavanje 15: Objava i dijeljenje rezultata analize</a>
 
 
 # Literatura i korisni resursi
