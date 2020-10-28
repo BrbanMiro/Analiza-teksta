@@ -402,7 +402,7 @@ Sljedeći resursi ulaze u osnovnu literaturu za kolegij:
 <br>Napredni *(frontier)* kolegij iz analize teksta. 
 
 <a href="https://www.udemy.com/course/master-natural-language-processing-nlp-text-mining-without-coding/">Udemy 1</a>
-<br>Kolegij iz tečaj teksta bez programskog jezika. Korisno!
+<br>Tečaj iz analize teksta bez programskog jezika. Korisno!
 
 <a href="https://www.udemy.com/course/nlp-natural-language-processing-with-python/">Udemy 2</a>
 <br>Uvodni tečaj iz (NLP) analize teksta u programskom jeziku Python.
