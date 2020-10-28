@@ -24,8 +24,7 @@ Diplomski kolegij 'Strojna obrada teksta' u xy semestru akademske godine 2021/22
 2. Pristupi i modeli za analizu teksta
 3. Napredne teme iz analize teksta i praktični primjeri.
 <br>
-<br>
-<br>
+
 <div style="width: 25%; margin-left: auto; margin-right: auto;">
 <a href="/Predavanja/01_UVOD.pdf">Predavanje 01: Pregled kolegija i studentskih obveza</a>
 <ul>
