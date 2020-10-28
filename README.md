@@ -7,7 +7,13 @@
  
 
 # Opis kolegija
-Diplomski kolegij 'Strojna obrada teksta' u xy semestru akademske godine 2021/22 na Fakultetu hrvatskih studija u Zagrebu. Kolegij je prvenstveno namijenjen studentima komunikologije na diplomskoj razini, a također kompatibilan sa pristupima obrade teksta u drugim društvenim (sociologija, politologija, novinarstvo, psihologija, ekonomija, povijest, pravo) i humanističkim (antropologija, literatura) znanostima. Kolegij polazi od <i>Big Data</i> pristupa društvenim istraživanjima i korsiti kvantitativno-računarske metode za analizu teksta generiranog na društvenim mrežama, web stranicama i aplikacijama.  
+Diplomski kolegij 'Strojna obrada teksta' u xy semestru akademske godine 2021/22 na Fakultetu hrvatskih studija u Zagrebu. Kolegij je prvenstveno namijenjen studentima komunikologije na diplomskoj razini, a također kompatibilan sa pristupima obrade teksta u drugim društvenim (sociologija, politologija, novinarstvo, psihologija, ekonomija, povijest, pravo) i humanističkim (antropologija, literatura) znanostima.
+
+Kolegij polazi od <i>Big Data</i> pristupa društvenim istraživanjima i korsiti kvantitativno-računarske metode za analizu teksta generiranog na društvenim mrežama, web stranicama i aplikacijama. 
+
+Kolegijem se nastoji približiti strojna obrada teksta studentima društvenih (i humanističkih) znanosti te omogućiti razumijevanje i praćenje trendova u modernoj analizi teksta.
+
+Kolegij je strukturiran kao Open Source repozitorij što će čini osnovu za samostalnu provedbu analize teksta.
 
 Kolegij je strukturiran u tri cjeline:
 1. Priprema tekstualnih podataka za analizu.
